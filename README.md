@@ -1,2 +1,3 @@
 # first_python-
-first_python.repo
+This is the python demonstration
+
